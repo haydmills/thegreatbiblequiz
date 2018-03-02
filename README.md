@@ -1,6 +1,10 @@
 # The Great Bible Quiz
 Creating fun, engaging Bible quizzes for every book of the Bible
 
+Help us create Bible quiz questions for each book of the Bible! We are using Google Forms right now and creating them in a shared folder. Once we build quizzes for every book of the Bible (Level 100, 200, and 300, we plan to build a website and app to take this to the next level. First though, we focus on content, i.e. writing great Bible quiz questions that help people learn more about the Bible. 
+
+Google Drive where all the quizzes are saved and built - https://drive.google.com/drive/folders/1ADK7BzAYCkhN9dgI7MP7pjhV09jE_roZ?usp=sharing (feel free to help out by creating more!)
+
 Written by Moses 
 1. Genesis - Level 100 (https://goo.gl/forms/hxulj77u0nf0czaS2)
 2. Exodus 
